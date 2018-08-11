@@ -42,12 +42,12 @@
     <repository>
         <id>00321bca3728</id>
         <name>00321bca3728-releases</name>
-        <url>http://http://13.127.190.187:8081/nexus/content/repositories/demo/</url>
+        <url>http://13.127.190.187:8081/nexus/content/repositories/karthick/</url>
     </repository>
     <snapshotRepository>
         <id>00321bca3728</id>
         <name>00321bca3728-snapshots</name>
-        <url>http://13.127.190.187:8081/artifactory/verizon</url>
+        <url>http://13.127.190.187:8081/nexus/content/repositories/karthicksnap/</url>
     </snapshotRepository>
 </distributionManagement>
 
