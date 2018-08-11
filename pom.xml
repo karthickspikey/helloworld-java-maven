@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>${BUILD_NUMBER}</version>
+  <version>1.0.0-${release.identifier}-${buildNumber}</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
